@@ -1,4 +1,4 @@
-# Game 15 Puzzle - ReactJS - TypeScript - Material UI - Responsive
+# Game 15 Puzzle - ReactJS - TypeScript - Material UI
 - ReactJS
 - TypeScript
 - Material UI
